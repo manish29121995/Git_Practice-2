@@ -1,3 +1,5 @@
 class Hello {
+public Hello(){
 
+}
 }
