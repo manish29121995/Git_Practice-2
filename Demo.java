@@ -1,7 +1,3 @@
-class{
-}
-:wq
-
-wwq:
+class A{
 
 }
